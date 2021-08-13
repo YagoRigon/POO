@@ -1,4 +1,6 @@
-public class Atividade01 {
+/*0050015850 - Yago Felippe Rigon*/
+
+public class Tabuada {
     public static void main(String[] args) {
         int i=1, resultado = 0, x=10;
 
