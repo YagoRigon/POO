@@ -1,3 +1,5 @@
+/*0050015850 - Yago Felippe Rigon*/
+
 public class Atividade01 {
     public static void main(String[] args) {
         int i=1, resultado = 0, x=10;
